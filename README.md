@@ -10,7 +10,7 @@ METHOD USED: We used two for loops to get the first letter of a string and check
 
 RUNTIME / SPACE COMPLEXITY:
 Runtime: O(n^2) because there is a nested for loop and each for loop is ran n times. 
-Space Complexity: O(n) because the array and arraylist in the program is not constant and depends on what is inputed. 
+Space Complexity: O(n) because the array and arraylist in the program are not constant and depends on what is inputed. 
 
 OUTSIDE SOURCES / HELP: Eran Young
 
